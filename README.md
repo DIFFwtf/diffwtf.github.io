@@ -1,5 +1,5 @@
 # DIFF.wtf
 
-It's all about the small difference ... like a rhyme in a pome.
+It's all about drawing focus to the small difference ... like the *rhyme in a lyric, especially the* ***almost*** *kind of rhyme*.
 
-Not exactly the complete reciprocal or mathematically total inverse of similarity, but just a tiny difference.
+This topic is mathematical, as in least squared regression curve fitting or tensor analysis ... not exactly the complete reciprocal or mathematically total inverse of similarity, but just the tiny difference or unusual amount of noise that makes something stick out.
