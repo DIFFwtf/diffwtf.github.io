@@ -1,5 +1,7 @@
-# A blog on the essential DIFFERENCES in open source software development.
+# The DIFFERENCE of open source
 
-## TBD 
+## The community-founding HERO 
 
-## TBD
+## The commitizens
+
+## The open source git flow
