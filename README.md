@@ -1,8 +1,10 @@
 # DIFFversity
 
+Stop hating, stop censoring ... promote learning the differences.
+
 DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***  Stop assuming that you know the other side's arguments -- what you know is your incompleted cartoon of their arguments. 
 
-Stop censoring; stop hating. Instead promote ***learning the difference*** ... develop [the tools](https://diffgraph.github.io/) to let them ***learn the difference*** by listening, arguing, debating, distilling, understanding the difference.
+Stop censoring; stop hating. Instead promote ***learning the differences*** ... develop [the tools](https://diffgraph.github.io/) to let people make distinctions, to ***learn meaningful differences*** by listening, arguing, debating, distilling, understanding these differences. Promote the skill of fully understanding complex issues ... rather than relying on simplistic, moronic fact checking. 
 
 ***LEARN the DIFFerence*** ... why is a DIFF important in something like Git ... what does it mean to BE the *difference* or to make a *difference* ... what about everything *differential* geometry how that might make intelligence *different*?  
 
