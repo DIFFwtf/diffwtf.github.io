@@ -1,11 +1,11 @@
 # The essential DIFFERENCE of open source
 
-## The community-founding HERO 
+## The HERO 
 It's hopefully relatively obvious why all great project start with a HERO ... not just a visionary programmer who develops for the sake of the usefullness of the programmer's art, but also a **visionary founder of an open source development community** which will provide useful user/maintainer feedback and essential encouragement when that encouragement is needed most. Proprietary software does not have heroes who are community leaders; it has competent mercenaries. Understand this DIFFERENCE.
 
-## The open source git flow
+## The flow
 
-The git flow itself is gigantic ... and that does not begin to get at the value added by something like the open source GitLab workflow. There's a lot to grok when it comes to understanding workflows and the evolving code that is part of Git and GitLab ... Understand this DIFFERENCE.
+The git flow itself is gigantic because of how Git is a truly distributed CVS and how Git efficiently stores the working version, and all of the differences. As significant as Git flow is, that flow lays the foundation for the additional value added by something like the open source GitLab workflow. There's a lot to grok when it comes to understanding workflows and the evolving code that is part of Git and GitHub or  GitLab ... it's very important to really learn and UNDERSTAND these DIFFERENCEs ... *in order to keep the community qi or positive energy of the work flowing*.
 
 ## The commitizens
 
