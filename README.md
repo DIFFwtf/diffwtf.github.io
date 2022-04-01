@@ -1,5 +1,7 @@
 # DIFFversity
 
+DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***  Stop assuming that you know the other side's arguments -- what you know is your incompleted cartoon of their arguments. Stop censoring; stop hating.
+
 ***LEARN the DIFFerence*** ... why is a DIFF important in something like Git ... what does it mean to BE the *difference* or to make a *difference* ... what about everything *differential* geometry how that might make intelligence *different*?  
 
 ***LEARNING the difference*** is about BEING the difference by adopting a different approach to learning ... it's about making the difference by BEING the difference by learning, extending, breaking/fixing and demonstrating different topics from different points of view.  The difference is about learning and what information actually IS.
