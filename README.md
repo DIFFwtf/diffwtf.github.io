@@ -1,6 +1,8 @@
 # DIFFversity
 
-DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***  Stop assuming that you know the other side's arguments -- what you know is your incompleted cartoon of their arguments. Stop censoring; stop hating.
+DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***  Stop assuming that you know the other side's arguments -- what you know is your incompleted cartoon of their arguments. 
+
+Stop censoring; stop hating. Instead promote ***learning the difference*** ... develop [the tools](https://diffgraph.github.io/) to let them ***learn the difference*** by listening, arguing, debating, distilling, understanding the difference.
 
 ***LEARN the DIFFerence*** ... why is a DIFF important in something like Git ... what does it mean to BE the *difference* or to make a *difference* ... what about everything *differential* geometry how that might make intelligence *different*?  
 
@@ -26,4 +28,4 @@ Issues arise from differences or aberration from desired performance; these issu
 
 ## DIFFgraph
 
-The [***DIFFgraph***](https://diffwtf.github.io/diffgraph) is for social knowledge engineering. The vision for [***DIFFgraph***](https://diffwtf.github.io/diffgraph) is something like an annotated, discussed graphical hybridization of differenct ideas ... it's sort of what [what ConnectedPapers is about](https://www.connectedpapers.com/about) ... but perhaps an extension beyond pre-print scientific paper archives to things like Git repositories ... where the [***DIFFgraph***](https://diffwtf.github.io/diffgraph) itself is sort of a jam on differences/similarities/hybridizations.
+The [***DIFFgraph***](https://diffgraph.github.io/) is for social knowledge engineering. The vision for [***DIFFgraph***](https://diffgraph.github.io/) STARTS with something like an annotated, discussed graphical hybridization of different ideas, in the manner of what [what ConnectedPapers is about](https://www.connectedpapers.com/about) ... but it is intended to be an democratized extension beyond pre-print scientific paper archives to things like Git repositories and beyond... the [***DIFFgraph***](https://diffgraph.github.io/) conversation threads themselves are data, which can be stored in Git repos, or threadrolled copies of jams on differences/similarities/hybridizations.
