@@ -1,6 +1,8 @@
-# DIFF.wtf
+# DIFFVERSITY.com
 
-***Difference*** ... being the *difference*  ... making a *difference* ... *differential* geometry ... what is *different*?
+***LEARN the Difference*** ... why is a DIFF important in something like Git ... what does it mean to BE the *difference* or to make a *difference* ... what about everything *differential* geometry how that might make intelligence *different*?  
+
+***LEARNING the Difference*** is about different approach to learning ... it's about making the difference, learning to BE the difference ... it's about learning and demonstrating different topics from different points of view. It aims to be different. 
 
 The value of information is in how it surprises, a *WTF* moment means that we have to adjust -- this is entirely about drawing focus to the small difference, the character of the difference ... it is like the unforgetable *rhyme in a lyric, especially the* ***almost*** *kind of rhyme* that didn't follow the rules.
 
