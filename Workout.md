@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Workouts
-permalink: /Workouts/
+title: Workout
+permalink: /Workout/
 ---
 
 
-## Why bother with physicultural intelligence?
+## Why bother with workouts, martial arts, powerlifting or different aspects of physicultural intelligence?
 
 *Maybe it is not blatantly obvious to everyone that cognitive intelligence begins with physical health. Workouts are part of maintaining optimal cognitive fitness. If people disagree this assertion ... well, the people who you interact with can probably tell, even if you can't or don't want to admit the cognitive importance of physical fitness.*
 

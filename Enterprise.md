@@ -1,13 +1,13 @@
 ---
 layout: page
-title: NanoEnterprises
-permalink: /NanoEnterprises/
+title: Enterprise
+permalink: /Enterprise/
 ---
 
 
-We follow the world of early, early seed stage nanoenterprises
+We follow the world of ENTERPRISE ... we are referring to enterprising developments in different realms ... early, early seed stage nanoenterprises ... government data initiatives ... scientific research, especially in nontraditional realms
 
-# Curated Collections of Nanoenterprises
+# Curated Collections of Enterprise
 
 Our aim is to have roughly curated collections in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main collection that we are focusing on.
 
