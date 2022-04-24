@@ -1,19 +1,16 @@
 # DIFFversity
 
-Stop hating, stop censoring ... promote learning the differences.
+Promote learning, appreciating, understanding the differences. Don't judge. Don't hate. Learn. Appreciate. UNDERSTAND. The beauty is in the differences and what makes you different. It's not just disruption ... first we must *Learn. Appreciate. UNDERSTAND.*
 
-DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... because DIFFversity is about ***appreciating differences rather than forcing conformity.***  Stop assuming that you know the other side's arguments -- what you know is your incompleted cartoon of their arguments. 
+### Seek out DIFFversity!
 
-Stop censoring; stop hating. Instead promote ***learning the differences*** ... develop [the tools](https://diffgraph.github.io/) to let people make distinctions, to ***learn meaningful differences*** by listening, arguing, debating, distilling, understanding these differences. Promote the skill of fully understanding complex issues ... rather than relying on simplistic, moronic fact checking. 
+It's risk-free now ... it's just a matter of changing the habits of being yourself. Try something like visiting different trending repositories in the GitHub community ... or better yet, fork [and update] the [*github/explore repository](https://github.com/github/explore) with an aim toward really STUDYING ten great repositories per day and maybe creating your own [curated collections](https://github.com/collections).
 
-***LEARN the DIFFerence*** ... why is a DIFF important in something like Git ... what does it mean to BE the *difference* or to make a *difference* ... what about everything *differential* geometry how that might make intelligence *different*?  
 
-***LEARNING the difference*** is about BEING the difference by adopting a different approach to learning ... it's about making the difference by BEING the difference by learning, extending, breaking/fixing and demonstrating different topics from different points of view.  The difference is about learning and what information actually IS.
 
-The value of information is in how it surprises, a *WTF* moment means that we have to adjust -- this is entirely about drawing focus to the small difference, the character of the difference ... it is like the unforgetable *rhyme in a lyric, especially the* ***almost*** *kind of rhyme* that didn't follow the rules.
+DIFFversity is a fundamentally different learning paradigm, a DIFFERENT approach to thinking and learning ... we want to develop [the tools](https://diffgraph.github.io/) to allow people to exlore distinctions ... HYBRID cognitive intelligence has a theoretical, abstract, conceptual, mathematic difference -- for example, what can we learn from things like **different***ial* geometry how that might help make cognitive intelligence *different*?  
 
-The DIFF topic is something that is worthy of our curiosity in many realms ... a DIFF is not exactly the complete reciprocal or mathematically total inverse of similarity, but just the tiny difference or unusual amount of noise that makes something fall flat, cause turbulence or disrupt the quiet flow that we thought we understood. It's not just the disruption, but what causes it and how the DIFF game can be played.
-
+***LEARNING the difference*** is about BEING the difference by adopting a different approach to learning ... ... people want BE the *difference* or to make a *difference* ... but we always find that the value of information is in how it surprises, a *WTF* moment means that we have to adjust -- this is entirely about drawing focus to the small difference, the character of the difference ... it is like the unforgetable *lyric* ... we are learning how to *speak in the pompatus of DIFF.*
 ## DIFFlists
 
 [This curated listing of annoated AWESOME reading list](https://diffwtf.github.io/readinglist) is an attempt to discuss or give some context to different work papers on the [topic of DIFFs in various papers](https://arxiv.org/search/?query=diff&searchtype=title&source=header) or the [set of topics surrounding differential geometry](https://mathoverflow.net/questions/tagged/dg.differential-geometry) ... this material might be highly technical or essentially quite mathematical in nature ... but at its core, it's just a group of really competent people doing some especially important and foundational work in advancing the state of human knowledge. After all,***it's the DIFFERENCES that matter!***
