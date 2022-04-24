@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Classics Reading Listification"
+title:  "Classics Reading Illustrates The Well-Established Method Driving Listification"
 date:   2022-01-01 4:30:00
 categories: classics
 ---
@@ -8,7 +8,11 @@ categories: classics
 
 # Listifying of Classics
 
-Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
+This is really a META thing ... it's not about individual classics but rather the process over the ages for how classics become favorite classics and perhaps even lose their favored status, but still have influenced other writers, commentators, educators.  
+
+Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. 
+
+A large population of scholars have been compiling reading lists of the Classics for at least 500 years ... but it started well before that, well before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
 
 As with today's modern AWESOME pattern for code repositories, book clubs and reading lists show us that a PUBLIC reading list becomes much more than just a list of things to read ... people become INVOLVED in the process or sharing ideas with others and THINKING about ideas, rather than just turning on the television and swallowing content.
 
