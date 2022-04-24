@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Classics The Methodology Driving Listification"
+title:  "The Classics Have Defined The Methodology Driving Listification"
 date:   2022-01-01 4:30:00
 categories: classics
 ---
