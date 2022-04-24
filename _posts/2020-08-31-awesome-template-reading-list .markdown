@@ -5,7 +5,11 @@ date:   2022-03-31 4:30:00
 categories: template
 ---
 
-Yes, we know that this writing needs an editor. Perhaps the point of the exercise ... do develop some editing skills. ***Mostly, the writing is still raw, dissheveled, lacking a cup of coffee and certainly not yet dressed-up for work.***
+Yes, we git it ...
+
+... we KNOW that all of this writing needs some editing. 
+
+But, perhaps the point of this exercise ... or at least it is one of the points ... it is about developing some editing skills. ***Mostly, the writing is still raw, dissheveled, lacking a cup of coffee and certainly not yet dressed-up for work.***
 
 That's what listification is about ... EDITING ... lots of EDITING ... it's about CURATING personal [AWESOME lists](https://github.com/topics/awesome) and content collections ... which others might find useful ... but maybe not yet --**we mostly curate the lists for our future selves.**
 
