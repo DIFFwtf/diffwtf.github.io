@@ -4,7 +4,7 @@ Promote learning, appreciating, understanding the differences. Don't judge. Don'
 
 ### Seek out DIFFversity!
 
-It's risk-free now ... it's just a matter of changing the habits of being yourself. Try something like visiting different trending repositories in the GitHub community ... or better yet, fork [and update] the [*github/explore repository](https://github.com/github/explore) with an aim toward really STUDYING ten great repositories per day and maybe creating your own [curated collections](https://github.com/collections).
+It's risk-free now ... it's just a matter of changing the habits of being yourself. Try something like visiting different trending repositories in the GitHub community ... or better yet, fork [and update] the [github/explore repository](https://github.com/github/explore) with an aim toward really STUDYING ten great repositories per day and maybe creating your own [curated collections](https://github.com/collections).
 
 
 
