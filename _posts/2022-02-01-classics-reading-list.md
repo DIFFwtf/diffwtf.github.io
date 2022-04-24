@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Classics Reading Illustrates The Well-Established Method Driving Listification"
+title:  "The Classics The Methodology Driving Listification"
 date:   2022-01-01 4:30:00
 categories: classics
 ---
