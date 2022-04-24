@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annotated Curated Listification Starts Brainstorming"
+title:  "Annotated Curated Listification Starts With Brainstorming"
 date:   2022-03-01 4:30:00
 categories: template
 ---
@@ -8,7 +8,9 @@ categories: template
 
 # Curated Reading Collection Template
 
-To really brainstorm, we need to PUSH a bit ... in listification, we want to have roughly 125 pretty good ideas in the hopper. We will try to get to each of these sometime in the next 3 months, but the lower 100 are *on the bubble*. The 25 most important list items we work on at least once a month.
+To really brainstorm, we need to PUSH a bit on brainstorming ... we cannot afford to just look at the top three or five as we normally do with *googlestorming* ideation. We really need to ***PUSH.***
+
+in listification, we want to have roughly 125 pretty good ideas in the hopper. We will try to get to each of these sometime in the next 3 months, but the lower 100 are *on the bubble*. The 25 most important list items we work on at least once a month.
 
 Our top five list ... which might be closer to what everyone tends to think of as a *normal* ToDo list are those top five things that we will touch on at least once in the coming week.
 
