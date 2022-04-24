@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Classics Reading List"
+title:  "Classics Reading Listification"
 date:   2022-01-01 4:30:00
 categories: classics
 ---
 
 
-# Listing of Classics
+# Listifying of Classics
 
 Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. A large populations of scholars have been compiling reading lists of the Classics for at least 500 years ... even before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
 
