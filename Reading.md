@@ -9,7 +9,9 @@ We mostly read as a break from work ... or actually, we treat reading as a way t
 
 # Curated Reading Collections
 
-Our aim with this listing is to never have to think about our next list of items to read/annotate ... we want to have roughly 125 good workout ideas in the hopper, to have 25 that we work on at least once a month, to have five that we touch once a week and to have ONE main one that we are focusing on getting right.
+Our aim with this curated collection is give some structure to the items we might read/annotate [while we might be waiting for something to start].  Also this is a READING list and not to be confused something like [handy devdocs reference material](https://devdocs.io/), which can make for convenient just-in-time reading. 
+
+We want to have roughly 125 good READING in the "big hopper" at all times ... that gives us a top 25 that we get to at least once a month and have five that we will touch once a week ... with ONE main curated collection that we are focusing on.
 
 1) Newsreader; pre-print archives
 
