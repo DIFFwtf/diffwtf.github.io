@@ -14,9 +14,9 @@ The Classics give us an example of what has worked extremely well for thousands 
 
 # Listifying of Classics
 
-This is really a META thing ... it's not about individual classics but rather the process over the ages for how classics become favorite classics and perhaps even lose their favored status, but still have influenced other writers, commentators, educators.  
+Really ***CURATING*** annotated lists is really a deeply META thing ... it's about the meta-cognition of cultural thinking ... when we do  this about *The Classics* it's not about and individual classic text, but rather the process over the ages for how classics were read, enjoyed, shared, re-read, critiqued, revised, reprised to ***EMERGE*** as favorite Classics and perhaps even after lose their favored or popular status still continue to influence other writers, commentators, educators.  
 
-Studying the Classics is really about studying how networks of scholars work asynchronously over generations to think and build knowledge. 
+Studying the Classics is really about studying the neuroscientific meta-cognition of cultural semiotics and thinking about concepts ...it's really about studying how networks of scholars work asynchronously over generations to think and build knowledge ... but it's also enjoyable, because we get to try to understand how very different cultures, in very different times THOUGHT about human life.
 
 A large population of scholars have been compiling reading lists of the Classics for at least 500 years ... but it started well before that, well before the advent of the printing press, a few scholars with access to the hand-copied materials have been doing the same for thousands and thousands of years ... and, as with the rabbinical study of the Torah, the annotated curation of the reading list itself adds insight to the study of the classics ... so when we study the Classics, it's really a meta-thing.  
 
