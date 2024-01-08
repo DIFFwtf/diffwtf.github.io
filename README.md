@@ -6,7 +6,7 @@ The point of THINKING different, WORKING together and optimizing the FLOW of a c
 
 Of course, we should NEVER judge; of course, we should NEVER hate. Of course, we should seek to ... Learn. Appreciate. UNDERSTAND. 
 
-But the collaborative #workTHINKflow process is demanding and DIFFicult. Respecting DIFFerences is not about avoiding differences; it is about THINKING and what is different and WHY. Achieving FLOW is fundamentally disruptive ... first we must *Learn. Appreciate. UNDERSTAND.* ... but ultimately, the WORK of THINKING must FLOW.
+The collaborative #workTHINKflow process is demanding and DIFFicult. Respecting DIFFerences is not about avoiding differences; it is about THINKING and what is different and WHY. Achieving FLOW is fundamentally disruptive ... first we must *Learn. Appreciate. UNDERSTAND.* ... but ultimately, the WORK of THINKING must FLOW.
 
 ### Seek out DIFFversity!
 
