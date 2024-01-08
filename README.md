@@ -1,6 +1,12 @@
-# DIFFversity
+# workTHINKflow
 
-Promote learning, appreciating, understanding the differences. Don't judge. Don't hate. Learn. Appreciate. UNDERSTAND. The beauty is in the differences and what makes you different. It's not just disruption ... first we must *Learn. Appreciate. UNDERSTAND.*
+DiffWTF is an open source development workfow  designed to accelerate negotiations of learning and optimizing collaborative DIFFERENCES ... diffWTF is sustainable only because of the extra value that emerges through what is admittedly a DIFFicult cognitive process.
+
+The point of THINKING different, WORKING together and optimizing the FLOW of a collaborative development workflow is to accelerate the negotiation of promoting learning, appreciating, understanding the differences. 
+
+Of course, we should NEVER judge; of course, we should NEVER hate. Of course, we should seek to ... Learn. Appreciate. UNDERSTAND. 
+
+But the collaborative #workTHINKflow process is demanding and DIFFicult. Respecting DIFFerences is not about avoiding differences; it is about THINKING and what is different and WHY. Achieving FLOW is fundamentally disruptive ... first we must *Learn. Appreciate. UNDERSTAND.* ... but ultimately, the WORK of THINKING must FLOW.
 
 ### Seek out DIFFversity!
 
