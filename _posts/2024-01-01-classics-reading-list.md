@@ -1,10 +1,16 @@
 ---
 layout: post
 title:  "The Classics Have Defined The Methodology Driving Listification"
-date:   2022-01-01 4:30:00
+date:   2024-01-01 4:30:00
 categories: classics
 ---
 
+
+## ***HOW do we overcome the terrible habits of being ourselves?***
+
+This is fundamentally the question that HUMAN BEINGS have been trying to answer for thousands of years. Humans have been trying to advance or level up the skills of being human through their literature, the shared appreciation and enjoyment of that literature and the thinking it spawns such as centuries of critique of that literature. There are tons of different literary vehicles for different cultures, but the archetypal example of this attempt by humans to overcome the terrible habits of being human is through the the body of work that we now define as the Classics.
+
+The Classics give us an example of what has worked extremely well for thousands of years to advance and level up skills of a civilization ... of course, the Classics are not perfect ... that's kind of the point ... but the Classics are the fundamental cultural building block of the cognitive processes which underpin what is typically defined as Western Civilization ... and the whole POINT cultural introspectivity is certainly NOT from from venerating and worshipping the idol of crowned excellence ... the whole point of the greatness of cultural introspectivity is in the recognition that these cognitive processes are far from perfect, but those processes effectively *made us* [and made our imperfections] and have gotten us this far ... ***so we don't simply give up on them and chase the latest cultural fad***.
 
 # Listifying of Classics
 
