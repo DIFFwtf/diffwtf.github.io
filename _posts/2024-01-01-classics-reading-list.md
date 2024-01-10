@@ -19,9 +19,15 @@ The Classics give us an example of what has worked extremely well for thousands 
 
 # Listification: Curating Annotated Lists of Awesome Material
 
-Listification is about really ***CURATING*** ... not just putting a list together, but going back to that list again and again ... maybe forking someone else's list ... synthesizing a new list ... constantly updating, re-reading, annotating and revising, re-synthesizing, updating, critically annotated lists is really a deeply cultural META methodology.
+Listification is about ***really*** taking CURATING seriously; as if our eternities depended upon it ... not just putting a list together, but going back to that list again and again and thousands of times again ... probably forking someone else's list and synthesizing a new list ... constantly updating, re-reading, annotating and revising, re-synthesizing, updating, critically annotated lists. 
 
-It's far beyond being merely interpersonal sharing of ideas or pithy quotes ... listification is basically intergenerational or coming back to AWESOME or Classical work and re-examining over time why something worked. 
+Listification is really a deeply cultural META methodology that humans have been using for thousands of years ... we just have all kinds of technologies to use now ... but listification is primarily about prioritization and rank-ordering and ***arguing and APPRECIATING the arguments.*** 
+
+For example, on the topic classic songs ... or classic Jazz songs ... or classic Hip Hop songs ... we can start by asking a simple question like [*"What are the 500 Greatest Songs of all time"*](https://en.wikipedia.org/wiki/Rolling_Stone%27s_500_Greatest_Songs_of_All_Time) and although that definitive list is useful for different reasons, DIFFERENT people will have very different, perhaps narrower but different tastes and different lists that are worth synthesising and looking at [assuming that one is a fan of different kinds of music] just as different people will feel very differently the rankings of the songs on what everybody references as the definitive list.
+
+Of course, it STARTS OUT being about the music itself ... but that drives why people ***argue and APPRECIATE the arguments of other people AND DEEPEN and BROADEN THEIR LOVE OF MUSIC*** and that takes music lovers back to their love of music and the culture of music appreciation.
+
+It's far, far, far beyond being merely interpersonal sharing of ideas or pithy quotes or the celebrity gossip of who influenced who or sophomoric, drunken arguements about things like *So WHO really started Jazz or Reggae or Rock'nRoll or HipHop anyway?" ... the silly sophomoric arguements are all part of it ... but listification is not just among some friends sitting around a table, it's basically intergenerational or coming back to AWESOME or Classical work and re-examining over time why something worked. 
 
 **It's about the meta-cognition of cultural thinking.** 
 
