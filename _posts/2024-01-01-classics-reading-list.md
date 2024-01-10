@@ -6,7 +6,12 @@ categories: classics
 ---
 
 
+
+**What was the common, fundamental question driving the introspective inquiry behind ALL of the Classics?**
+
 ## ***HOW do we overcome the terrible habits of being ourselves?***
+
+*How do we become better human beings? Who makes a hero? What defines leadership?* 
 
 This is fundamentally the question that HUMAN BEINGS have been trying to answer for thousands of years. Humans have been trying to advance or level up the skills of being human through their literature, the shared appreciation and enjoyment of that literature and the thinking it spawns such as centuries of critique of that literature. There are tons of different literary vehicles for different cultures, but the archetypal example of this attempt by humans to overcome the terrible habits of being human is through the the body of work that we now define as the Classics.
 
