@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Classics Have Defined The Methodology Driving Listification"
+title:  "WHY we look at the meta-methodology behind the Classics"
 date:   2024-01-01 4:30:00
 categories: classics
 ---
@@ -17,9 +17,15 @@ This is fundamentally the question that HUMAN BEINGS have been trying to answer 
 
 The Classics give us an example of what has worked extremely well for thousands of years to advance and level up skills of a civilization ... of course, the Classics are not perfect ... that's kind of the point ... but the Classics are the fundamental cultural building block of the cognitive processes which underpin what is typically defined as Western Civilization ... and the whole POINT cultural introspectivity is certainly NOT from from venerating and worshipping the idol of crowned excellence ... the whole point of the greatness of cultural introspectivity is in the recognition that these cognitive processes are far from perfect, but those processes effectively *made us* [and made our imperfections] and have gotten us this far ... ***so we don't simply give up on them and chase the latest cultural fad***.
 
-# Listifying of Classics
+# Listification: Curating Annotated Lists of Awesome Material
 
-Really ***CURATING*** annotated lists is really a deeply META thing ... it's about the meta-cognition of cultural thinking ... when we do  this about *The Classics* it's not about and individual classic text, but rather the process over the ages for how classics were read, enjoyed, shared, re-read, critiqued, revised, reprised to ***EMERGE*** as favorite Classics and perhaps even after lose their favored or popular status still continue to influence other writers, commentators, educators.  
+Listification is about really ***CURATING*** ... not just putting a list together, but going back to that list again and again ... maybe forking someone else's list ... synthesizing a new list ... constantly updating, re-reading, annotating and revising, re-synthesizing, updating, critically annotated lists is really a deeply cultural META methodology.
+
+It's far beyond being merely interpersonal sharing of ideas or pithy quotes ... listification is basically intergenerational or coming back to AWESOME or Classical work and re-examining over time why something worked. 
+
+**It's about the meta-cognition of cultural thinking.** 
+
+When humans have done this about *The Classics* it's never been about about one individual classic work ... it's all about context and whether or not a Classic work really holds up.  It's about looking at THE PROCESS over the ages and how cultures *processed* their cultural classics ... not about the fame or celebrity status of ONE author, ONE work ... but rather the competitive mindshare process ...for how classics were read, enjoyed, shared, re-read, critiqued, revised, reprised to ***EMERGE*** as favorite Classics and perhaps even after lose their favored or popular status still continue to influence other writers, commentators, educators.  
 
 Studying the Classics is really about studying the neuroscientific meta-cognition of cultural semiotics and thinking about concepts ...it's really about studying how networks of scholars work asynchronously over generations to think and build knowledge ... but it's also enjoyable, because we get to try to understand how very different cultures, in very different times THOUGHT about human life.
 
